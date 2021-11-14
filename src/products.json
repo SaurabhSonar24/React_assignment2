@@ -1,0 +1,12 @@
+{
+    "products":[{"id":1,"pname":"POCO M3 (Cool Blue, 64 GB)","price":"₹11,499","image":"https://rukminim1.flixcart.com/image/312/312/kklhbbk0/mobile/h/i/q/m3-mzb087ain-poco-original-imafzxf8zqkcgwfv.jpeg?q=70"},
+        {"id":2,"pname":"APPLE iPhone 12 (Blue, 128 GB)","price":"₹64,999","image":"https://rukminim1.flixcart.com/image/416/416/kg8avm80/mobile/y/7/n/apple-iphone-12-dummyapplefsn-original-imafwg8dqq7z8cgh.jpeg?q=70"},
+        {"id":3,"pname":"realme GT Master Edition (Cosmos Black, 128 GB)","price":"₹25,999","image":"https://rukminim1.flixcart.com/image/416/416/ksgehzk0/mobile/c/c/e/gt-master-edition-rmx3360-realme-original-imag6yg5jzgu7gzj.jpeg?q=70"},
+        {"id":4,"pname":"SAMSUNG Galaxy M52 5G (Icy Blue, 128 GB)","price":"₹26,956","image":"https://rukminim1.flixcart.com/image/416/416/kubk70w0/mobile/g/t/d/galaxy-m52-5g-sm-m526br-sm-m526br-samsung-original-imag7h2ty43zteps.jpeg?q=70"},
+        {"id":5,"pname":"APPLE iPhone 12 (Red, 128 GB)","price":"₹64,999","image":"https://rukminim1.flixcart.com/image/416/416/kg8avm80/mobile/q/8/f/apple-iphone-12-dummyapplefsn-original-imafwg8drqaam5vu.jpeg?q=70"},
+        {"id":6,"pname":"APPLE iPhone SE (Red, 64 GB)","price":"₹29,999","image":"https://rukminim1.flixcart.com/image/416/416/k9loccw0/mobile/6/8/g/apple-iphone-se-mxvv2hn-a-original-imafrcqmfxhcrpsb.jpeg?q=70"},
+        {"id":7,"pname":"OPPO Reno6 5G (Aurora, 128 GB)","price":"₹29,990","image":"https://rukminim1.flixcart.com/image/416/416/kr2e3680/mobile/b/q/v/reno6-5g-cph2251-oppo-original-imag4xp73qsqrtnt.jpeg?q=70"},
+        {"id":8,"pname":"OnePlus 9 5G (Arctic Sky, 8GB RAM, 128GB Storage)","price":"₹46,999","image":"https://m.media-amazon.com/images/I/61fy+u9uqPL._SL1500_.jpg"},
+        {"id":9,"pname":"Google Pixel 5 5G 128GB - Just Black","price":"₹60,959.00","image":"https://m.media-amazon.com/images/I/81-fNmQqlLL._SL1500_.jpg"}
+    ]
+}

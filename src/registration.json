@@ -1,0 +1,46 @@
+{
+  "registration": [
+    {
+      "id": 1,
+      "name": "Dummy",
+      "email": "dummy@gmail.com",
+      "mobile": "9011717318",
+      "course": "python"
+    },
+    {
+      "name": "Nishant Tanwar",
+      "email": "nishant@gmail.com",
+      "mobile": "6787882123",
+      "course": "python",
+      "id": 2
+    },
+    {
+      "name": "Tanmay Bhat",
+      "email": "tanmay@gmail.com",
+      "mobile": "7283787299",
+      "course": "machine learning",
+      "id": 3
+    },
+    {
+      "name": "Abhishek Upmanyu",
+      "email": "abhishek@gmail.com",
+      "mobile": "7283712299",
+      "course": "javascript",
+      "id": 4
+    },
+    {
+      "name": "Gaurav Kapoor",
+      "email": "gaurav@gmail.com",
+      "mobile": "7729173471",
+      "course": "python",
+      "id": 5
+    },
+    {
+      "name": "Rahul Dua",
+      "email": "rahul@gmail.com",
+      "mobile": "7362862179",
+      "course": "data science",
+      "id": 6
+    }
+  ]
+}
